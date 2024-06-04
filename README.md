@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quyendev99
+- 👋 Hi, I’m @quyendev99, I'm from Viet Nam.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning asp.net core, mvc and relavant.
 - 💞️ I’m looking some place or company to internship or work in.
